@@ -1,2 +1,2 @@
-# qr-tour
-A QR code tour application
+# QR-tour
+A QR code mobile tour application
